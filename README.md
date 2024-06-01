@@ -2,7 +2,7 @@ Predicting Airbnb Ratings in San Diego
 
 Areas of interest (examining the relationship of AirBnB ratings with other factors):
 1. Do certain property types have higher average ratings?
-2. Does higher average proportions of reviews per month result in higher ratings?
+2. Does higher average proportions of reviews per day result in higher ratings?
 
 San Diego is a beautiful city right by the ocean, and as summer vacation is approaching, we wanted to know which AirBnB would be the best for a short-term summer stay. We decided to look into the ratings given to San Diego AirBnB property and see what factors influence these ratings so that we can better understand why a certain property may have pros over another. We also hoped to note any interesting correlations between features of interest. By taking into account what factors are important for the rating score, we hope to not only help customers identify what they need and whether it is important or not, but also help hosts of these properties improve their facilities to receive a higher rating.
 
